@@ -1,9 +1,9 @@
-### Datawarehouse Project
+# Datawarehouse Project
 This is a complete Datawarehousing project which has all three layers: Bronze, Silver, and Gold.
 
 ## Objective
 Develop a modern data warehouse using MySQL to consolidate sales data, enabling analytical reporting and informed decision-making.
-# Specifications
+## Specifications
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 Data Quality: Cleanse and resolve data quality issues before analysis.
 Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
